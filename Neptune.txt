@@ -1,0 +1,104 @@
+Neptune/Earth Comparison
+Bulk parameters
+
+
+                                        Neptune     Earth       Ratio
+Mass (1024 kg)                          102.413     5.9724      17.15
+Volume (1010 km3)                       6,254       108.321     57.74
+Equatorial radius (1 bar level) (km)    24,764      6,378.1     3.883
+Polar radius (1 bar level) (km)         24,341      6,356.8     3.829
+Volumetric mean radius (km)             24,622      6,371.0     3.865
+Ellipticity (Flattening)                0.01708     0.00335     5.10
+Mean density (kg/m3)                    1,638       5,514       0.297
+Gravity (eq., 1 bar) (m/s2)             11.15       9.80        1.14
+Acceleration (eq., 1 bar) (m/s2)        11.00       9.78        1.12
+Escape velocity (km/s)                  23.5        11.19       2.10
+GM (x 106 km3/s2)                       6.8351      0.39860     17.15
+Bond albedo                             0.290       0.306       0.95
+Geometric albedo                        0.442       0.434       1.02
+V-band magnitude V(1,0)                 -6.94       -3.99       -
+Solar irradiance (W/m2)                 1.508       1,361.0     0.0011
+Black-body temperature (K)              46.6        254.3       0.183
+J2 (x 10-6)                             3411.       1082.63     3.151
+Number of natural satellites            14          1
+Planetary ring system                   Yes         No
+Orbital parameters
+
+
+                                Neptune     Earth       Ratio
+Semimajor axis (106 km)         4,495.06    149.60      30.047
+Sidereal orbit period (days)    60,189.     365.256     164.79
+Tropical orbit period (days)    59,799.9    365.242     163.73
+Perihelion (106 km)             4,444.45    147.09      30.216
+Aphelion (106 km)               4,545.67    152.10      29.886
+Synodic period (days)           367.49      -           -
+Mean orbital velocity (km/s)    5.43        29.78       0.182
+Max. orbital velocity (km/s)    5.50        30.29       0.182
+Min. orbital velocity (km/s)    5.37        29.29       0.183
+Orbit inclination (deg)         1.769       0.000       -
+Orbit eccentricity              0.0113      0.0167      0.677
+Sidereal rotation period (hrs)  16.11*      23.9345     0.673
+Length of day (hrs)             16.11       24.0000     0.671
+Obliquity to orbit (deg)        28.32       23.44       1.208
+Inclination of equator (deg)    28.32       23.44       1.208
+
+* Magnetic coordinates (as determined by the Voyager 2 Radio Science experiment)
+Neptune Observational Parameters
+
+Discoverer:      Johann Gottfried Galle  (based on predictions by
+                 John Couch Adams and Urbain Leverrier)
+Discovery Date:  23 September 1846
+
+Distance from Earth
+        Minimum (106 km)         4305.9
+        Maximum (106 km)         4687.3
+Apparent diameter from Earth
+        Maximum (seconds of arc)    2.4
+        Minimum (seconds of arc)    2.2
+Mean values at opposition from Earth
+        Distance from Earth (106 km)       4347.31
+        Apparent diameter (seconds of arc)    2.3
+        Apparent visual magnitude             7.8
+Maximum apparent visual magnitude             7.78
+
+Neptune Mean Orbital Elements (J2000)
+
+Semimajor axis (AU)                 30.06896348
+Orbital eccentricity                 0.00858587
+Orbital inclination (deg)            1.76917
+Longitude of ascending node (deg)  131.72169
+Longitude of perihelion (deg)       44.97135
+Mean Longitude (deg)               304.88003
+
+North Pole of Rotation
+
+Right Ascension: 299.36 + 0.70 sin N
+Declination    :  43.46 - 0.51 cos N
+Reference Date : 12:00 UT 1 Jan 2000 (JD 2451545.0)
+N = 357.85 + 52.316T degrees
+T = Julian centuries from reference date
+
+Neptunian Magnetosphere
+Model GSFC-O8
+
+Dipole field strength: 0.142 Gauss-Rn3
+Dipole tilt to rotational axis: 46.9 degrees
+Longitude of tilt: 288 degrees (IAU convention)
+Dipole offset: 0.485 Rn
+Surface (1 Rn) field strength: ~0.1 - 0.9 Gauss
+
+Rn denotes Neptunian model radius, here defined to be 24,765 km
+Neptunian Atmosphere
+
+Surface Pressure: >>1000 bars
+Temperature at 1 bar: 72 K (-201 C)
+Temperature at 0.1 bar: 55 K (-218 C)
+Density at 1 bar: 0.45 kg/m3
+Wind speeds: 0-580 m/s
+Scale height: 19.1 - 20.3 km
+Mean molecular weight: 2.53 - 2.69
+Atmospheric composition (by volume, uncertainty in parentheses)
+    Major:       Molecular hydrogen (H2) - 80.0% (3.2%); Helium (He) - 19.0% (3.2%);
+                 Methane (CH4) 1.5% (0.5%)
+    Minor (ppm): Hydrogen Deuteride (HD) - 192; Ethane (C2H6) - 1.5
+    Aerosols:    Ammonia ice, water ice, ammonia hydrosulfide, methane ice(?)

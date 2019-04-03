@@ -1,0 +1,95 @@
+Venus/Earth Comparison
+Bulk parameters
+
+
+                                    Venus       Earth       Ratio
+
+Mass (1024 kg)                      4.8675      5.9724      0.815
+Volume (1010 km3)                   92.843      108.321     0.857
+Equatorial radius (km)              6051.8      6378.1      0.949
+Polar radius (km)                   6051.8      6356.8      0.952
+Volumetric mean radius (km)         6051.8      6371.0      0.950
+Ellipticity (Flattening)            0.000       0.00335     0.0
+Mean density (kg/m3)                5243        5514        0.951
+Surface gravity (eq.) (m/s2)        8.87        9.80        0.905
+Surface acceleration (eq.) (m/s2)   8.87        9.78        0.907
+Escape velocity (km/s)              10.36       11.19       0.926
+GM (x 106 km3/s2)                   0.32486     0.39860     0.815
+Bond albedo                         0.77        0.306       2.52
+Geometric albedo                    0.689       0.434       1.59
+V-band magnitude V(1,0)             -4.38       -3.99       -
+Solar irradiance (W/m2)             2601.3      1361.0      1.911
+Black-body temperature (K)          226.6       254.0       0.892
+Topographic range (km)              13          20          0.650
+Moment of inertia (I/MR2)           0.33        0.3308      0.998
+J2 (x 10-6)                         4.458       1082.63     0.004
+Number of natural satellites        0           1
+Planetary ring system               No          No
+
+Orbital parameters
+
+
+                                Venus       Earth       Ratio
+(Venus/Earth)
+Semimajor axis (106 km)         108.21      149.60      0.723
+Sidereal orbit period (days)    224.701     365.256     0.615
+Tropical orbit period (days)    224.695     365.242     0.615
+Perihelion (106 km)             107.48      147.09      0.731
+Aphelion (106 km)               108.94      152.10      0.716
+Synodic period (days)           583.92      -            -
+Mean orbital velocity (km/s)    35.02       29.78       1.176
+Max. orbital velocity (km/s)    35.26       30.29       1.164
+Min. orbital velocity (km/s)    34.79       29.29       1.188
+Orbit inclination (deg)         3.39        0.00        -
+Orbit eccentricity              0.0067      0.0167      0.401
+Sidereal rotation period (hrs)  -5832.6     23.9345     243.690
+Length of day (hrs)             2802.0      24.0000     116.750
+Obliquity to orbit (deg)        177.36      23.44       -
+Inclination of equator (deg)    2.64        23.44       0.113
+
+Venus Observational Parameters
+
+Discoverer:      Unknown
+Discovery Date:  Prehistoric
+
+Distance from Earth
+        Minimum (106 km)            38.2
+        Maximum (106 km)           261.0
+Apparent diameter from Earth
+        Maximum (seconds of arc)    66.0
+        Minimum (seconds of arc)     9.7
+Maximum visual magnitude            -4.6
+Mean values at inferior conjunction with Earth
+        Distance from Earth (106 km)         41.44
+        Apparent diameter (seconds of arc)   60.2
+
+Venus Mean Orbital Elements (J2000)
+
+Semimajor axis (AU)                  0.72333199
+Orbital eccentricity                 0.00677323
+Orbital inclination (deg)            3.39471
+Longitude of ascending node (deg)   76.68069
+Longitude of perihelion (deg)      131.53298
+Mean Longitude (deg)               181.97973
+
+North Pole of Rotation
+
+Right Ascension: 272.76
+Declination    :  67.16
+Reference Date : 12:00 UT 1 Jan 2000 (JD 2451545.0)
+
+Venus Atmosphere
+
+
+Surface pressure: 92 bars
+Surface density: ~65. kg/m3
+Scale height: 15.9 km
+Total mass of atmosphere:  ~4.8 x 1020 kg
+Average temperature: 737 K (464 C)
+Diurnal temperature range: ~0
+Wind speeds: 0.3 to 1.0 m/s (surface)
+Mean molecular weight: 43.45
+Atmospheric composition (near surface, by volume):
+    Major:       96.5% Carbon Dioxide (CO2), 3.5% Nitrogen (N2)
+    Minor (ppm): Sulfur Dioxide (SO2) - 150; Argon (Ar) - 70; Water (H2O) - 20;
+                 Carbon Monoxide (CO) - 17; Helium (He) - 12; Neon (Ne) - 7

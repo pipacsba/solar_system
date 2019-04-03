@@ -1,0 +1,107 @@
+Saturn/Earth Comparison
+Bulk parameters
+
+
+                                        Saturn      Earth       Ratio
+Mass (1024 kg)                          568.34      5.9724      95.16
+Volume (1010 km3)                       82,713      108.321     763.59
+Equatorial radius (1 bar level) (km)    60,268      6,378.1     9.449
+Polar radius (1 bar level) (km)         54,364      6,356.8     8.552
+Volumetric mean radius (km)             58,232      6,371.0     9.140
+Ellipticity (Flattening)                0.09796     0.00335     29.24
+Mean density (kg/m3)                    687         5,514       0.125
+Gravity (eq., 1 bar) (m/s2)             10.44       9.80        1.065
+Acceleration (eq., 1 bar) (m/s2)        8.96        9.78        0.916
+Escape velocity (km/s)                  35.5        11.19       3.172
+GM (x 106 km3/s2)                       37.931      0.39860     95.16
+Bond albedo                             0.342       0.306       1.12
+Geometric albedo                        0.499       0.434       1.15
+V-band magnitude V(1,0)                 -8.91       -3.99       -
+Solar irradiance (W/m2)                 14.82       1,361.0     0.011
+Black-body temperature (K)              81.0        254.0       0.319
+Moment of inertia (I/MR2)               0.210       0.3308      0.635
+J2 (x 10-6)                             16,298.     1082.63     15.054
+Number of natural satellites            62          1
+Planetary ring system                   Yes         No
+Orbital parameters
+
+
+                                        Saturn      Earth       Ratio
+Semimajor axis (106 km)                 1,433.53    149.60      9.582
+Sidereal orbit period (days)            10,759.22   365.256     29.457
+Tropical orbit period (days)            10,746.94   365.242     29.424
+Perihelion (106 km)                     1,352.55    147.09      9.195
+Aphelion (106 km)                       1,514.50    152.10      9.957
+Synodic period (days)                   378.09      -           -
+Mean orbital velocity (km/s)            9.68        29.78       0.325
+Max. orbital velocity (km/s)            10.18       30.29       0.336
+Min. orbital velocity (km/s)            9.09        29.29       0.310
+Orbit inclination (deg)                 2.485       0.000       -
+Orbit eccentricity                      0.0565      0.0167      3.383
+Sidereal rotation period (hrs)          10.656*     23.9345     0.445
+Length of day (hrs)                     10.656      24.0000     0.444
+Obliquity to orbit (deg)                26.73       23.44       1.140
+
+* Saturnian System III coordinates
+Saturn Observational Parameters
+
+Discoverer:      Unknown
+Discovery Date:  Prehistoric
+
+Distance from Earth
+        Minimum (106 km)         1195.5
+        Maximum (106 km)         1658.5
+Apparent diameter from Earth
+        Maximum (seconds of arc)   20.1
+        Minimum (seconds of arc)   14.5
+Mean values at opposition from Earth
+        Distance from Earth (106 km)       1277.42
+        Apparent diameter (seconds of arc)   19.5
+        Apparent visual magnitude             0.7
+Maximum apparent visual magnitude             0.43
+
+Saturn Mean Orbital Elements (J2000)
+
+Semimajor axis (AU)                  9.53707032
+Orbital eccentricity                 0.05415060
+Orbital inclination (deg)            2.48446
+Longitude of ascending node (deg)  113.71504
+Longitude of perihelion (deg)       92.43194
+Mean Longitude (deg)                49.94432
+
+North Pole of Rotation
+
+Right Ascension: 40.589 - 0.036T
+Declination    : 83.537 - 0.004T
+Reference Date : 12:00 UT 1 Jan 2000 (JD 2451545.0)
+T = Julian centuries from reference date
+
+Saturnian Magnetosphere
+Model GSFC-Z3
+
+Dipole field strength: 0.215 Gauss-Rs3
+Dipole tilt to rotational axis: 0.0
+Dipole offset: 0.038 Rs
+Surface (1 Rs) field strength: 0.18 - 0.84 Gauss
+
+Saturn's magnetic field has significant quadrapole and octapole moments,
+making approximation of the central field as an offset dipole difficult.
+Rs denotes Saturnian model radius, defined here to be 60,330 km
+Saturnian Atmosphere
+
+Surface Pressure: >>1000 bars
+Temperature at 1 bar: 134 K (-139 C)
+Temperature at 0.1 bar: 84 K (-189 C)
+Density at 1 bar: 0.19 kg/m3
+Wind speeds
+   Up to 400 m/s (<30 degrees latitude)
+   Up to 150 m/s (>30 degrees latitude)
+Scale height: 59.5 km
+Mean molecular weight: 2.07
+Atmospheric composition (by volume, uncertainty in parentheses)
+    Major:       Molecular hydrogen (H2) - 96.3% (2.4%); Helium (He) - 3.25% (2.4%)
+    Minor (ppm): Methane (CH4) - 4500 (2000); Ammonia
+(NH3) - 125 (75);
+                 Hydrogen Deuteride (HD) - 110 (58); Ethane
+(C2H6) - 7 (1.5)
+    Aerosols:    Ammonia ice, water ice, ammonia hydrosulfide

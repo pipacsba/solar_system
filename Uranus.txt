@@ -1,0 +1,101 @@
+Uranus/Earth Comparison
+Bulk parameters
+
+                                        Uranus      Earth       Ratio
+Mass (1024 kg)                          86.813      5.9724      14.54
+Volume (1010 km3)                       6,833       108.321     63.08
+Equatorial radius (1 bar level) (km)    25,559      6,378.1     4.007
+Polar radius (1 bar level) (km)         24,973      6,356.8     3.929
+Volumetric mean radius (km)             25,362      6,371.0     3.981
+Ellipticity (Flattening)                0.02293     0.00335     6.84
+Mean density (kg/m3)                    1,271       5,514       0.231
+Gravity (eq., 1 bar) (m/s2)             8.87        9.80        0.905
+Acceleration (eq., 1 bar) (m/s2)        8.69        9.78        0.889
+Escape velocity (km/s)                  21.3        11.19       1.903
+GM (x 106 km3/s2)                       5.7940      0.39860     14.54
+Bond albedo                             0.300       0.306       0.980
+Geometric albedo                        0.488       0.434       1.12
+V-band magnitude V(1,0)                 -7.11       -3.99       -
+Solar irradiance (W/m2)                 3.69        1,361.0     0.0027
+Black-body temperature (K)              58.1        254.0       0.229
+Moment of inertia (I/MR2)               0.225       0.3308      0.680
+J2 (x 10-6)                             3343.43     1082.63     3.088
+Number of natural satellites            27          1
+Planetary ring system                   Yes         No
+Orbital parameters
+
+
+                                Uranus      Earth       Ratio
+Semimajor axis (106 km)         2,872.46    149.60      19.201
+Sidereal orbit period (days)    30,685.4    365.256     84.011
+Tropical orbit period (days)    30,588.740  365.242     83.749
+Perihelion (106 km)             2,741.30    147.09      18.637
+Aphelion (106 km)               3,003.62    152.10      19.748
+Synodic period (days)           369.66      -           -
+Mean orbital velocity (km/s)    6.80        29.78       0.228
+Max. orbital velocity (km/s)    7.11        30.29       0.235
+Min. orbital velocity (km/s)    6.49        29.29       0.222
+Orbit inclination (deg)         0.772       0.000       -
+Orbit eccentricity              0.0457      0.0167      2.737
+Sidereal rotation period (hrs)  -17.24*     23.9345     0.720
+Length of day (hrs)             17.24       24.0000     0.718
+Obliquity to orbit (deg)        97.77       23.44       -
+Inclination of equator (deg)    82.23       23.44       3.508
+
+* Magnetic coordinates (as determined by the Voyager 2 Radio Science experiment)
+Uranus Observational Parameters
+
+Discoverer:      William Herschel
+Discovery Date:  13 March 1781
+
+Distance from Earth
+        Minimum (106 km)         2581.9
+        Maximum (106 km)         3157.3
+Apparent diameter from Earth
+        Maximum (seconds of arc)    4.1
+        Minimum (seconds of arc)    3.3
+Mean values at opposition from Earth
+        Distance from Earth (106 km)       2719.99
+        Apparent diameter (seconds of arc)    3.9
+        Apparent visual magnitude             5.5
+Maximum apparent visual magnitude             5.32
+
+Uranus Mean Orbital Elements (J2000)
+
+Semimajor axis (AU)                 19.19126393
+Orbital eccentricity                 0.04716771
+Orbital inclination (deg)            0.76986
+Longitude of ascending node (deg)   74.22988
+Longitude of perihelion (deg)      170.96424
+Mean Longitude (deg)               313.23218
+
+North Pole of Rotation
+
+Right Ascension: 257.311
+Declination    : -15.175
+Reference Date : 12:00 UT 1 Jan 2000 (JD 2451545.0)
+
+Uranian Magnetosphere
+Model GSFC-O3
+
+Dipole field strength: 0.228 Gauss-Ru3
+Dipole tilt to rotational axis: 58.6 degrees
+Longitude of tilt: 53.6 degrees
+Dipole offset: 0.352 Ru
+Surface (1 Ru) field strength: ~0.1 - 1.0 Gauss
+
+Ru denotes Uranian model radius, here defined to be 25,600 km
+Uranian Atmosphere
+
+Surface Pressure: >>1000 bars
+Temperature at 1 bar: 76 K (-197 C)
+Temperature at 0.1 bar: 53 K (-220 C)
+Density at 1 bar: 0.42 kg/m3
+Wind speeds: 0-250 m/s
+Scale height: 27.7 km
+Mean molecular weight: 2.64
+Atmospheric composition (by volume, uncertainty in parentheses)
+    Major:       Molecular hydrogen (H2) - 82.5% (3.3%); Helium (He) - 15.2% (3.3%)
+                 Methane (CH4) - 2.3%
+    Minor (ppm): Hydrogen Deuteride (HD) - 148
+    Aerosols:    Ammonia ice, water ice, ammonia hydrosulfide, methane ice(?)

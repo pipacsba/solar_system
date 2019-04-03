@@ -1,0 +1,104 @@
+Mercury/Earth Comparison
+Bulk parameters
+
+
+                                    Mercury     Earth       Ratio
+
+Mass (1024 kg)                      0.33011     5.9724      0.0553
+Volume (1010 km3)                   6.083       108.321     0.0562
+Equatorial radius (km)              2439.7      6378.1      0.383
+Polar radius (km)                   2439.7      6356.8      0.384
+Volumetric mean radius (km)         2439.7      6371.0      0.383
+Ellipticity (Flattening)            0.0000      0.00335     0.000
+Mean density (kg/m3)                5427        5514        0.984
+Surface gravity (eq.) (m/s2)        3.70        9.80        0.378
+Surface acceleration (eq.) (m/s2)   3.70        9.78        0.378
+Escape velocity (km/s)              4.3         11.2        0.384
+GM (x 106 km3/s2)                   0.022032    0.39860     0.0553
+Bond albedo                         0.068       0.306       0.222
+Geometric albedo                    0.142       0.434       0.327
+V-band magnitude V(1,0)             -0.69       -3.99       -
+Solar irradiance (W/m2)             9082.7      1361.0      6.674
+Black-body temperature (K)          439.6       254.0       1.731
+Topographic range (km)              7           20          0.350
+Moment of inertia (I/MR2)           0.35        0.3308      1.058
+J2 (x 10-6)                         50.3        1082.63     0.055
+Number of natural satellites        0           1
+Planetary ring system               No          No
+
+Orbital parameters
+
+
+                                Mercury     Earth       Ratio
+
+Semimajor axis (106 km)         57.91       149.60      0.387
+Sidereal orbit period (days)    87.969      365.256     0.241
+Tropical orbit period (days)    87.968      365.242     0.241
+Perihelion (106 km)             46.00       147.09      0.313
+Aphelion (106 km)               69.82       152.10      0.459
+Synodic period (days)           115.88      -           -
+Mean orbital velocity (km/s)    47.36       29.78       1.590
+Max. orbital velocity (km/s)    58.98       30.29       1.947
+Min. orbital velocity (km/s)    38.86       29.29       1.327
+Orbit inclination (deg)         7.00        0.00        -
+Orbit eccentricity              0.2056      0.0167      12.311
+Sidereal rotation period (hrs)  1407.6      23.9345     58.785
+Length of day (hrs)             4222.6      24.0000     175.942
+Obliquity to orbit (deg)        0.034       23.44       0.001
+Inclination of equator (deg)    0.034       23.44       0.001
+Mercury Observational Parameters
+
+Discoverer:      Unknown
+Discovery Date:  Prehistoric
+
+Distance from Earth
+        Minimum (106 km)            77.3
+        Maximum (106 km)           221.9
+Apparent diameter from Earth
+        Maximum (seconds of arc)    13.
+        Minimum (seconds of arc)     4.5
+Maximum visual magnitude            -1.9
+Mean values at inferior conjunction with Earth
+        Distance from Earth (106 km)         91.70
+        Apparent diameter (seconds of arc)   11.0
+
+Mercury Mean Orbital Elements (J2000)
+
+Semimajor axis (AU)                  0.38709893
+Orbital eccentricity                 0.20563069
+Orbital inclination (deg)            7.00487
+Longitude of ascending node (deg)   48.33167
+Longitude of perihelion (deg)       77.45645
+Mean Longitude (deg)               252.25084
+
+North Pole of Rotation
+
+Right Ascension: 281.010 - 0.033T
+Declination    :  61.414 - 0.005T
+Reference Date : 12:00 UT 1 Jan 2000 (JD 2451545.0)
+T = Julian centuries from reference date
+
+Mercury Magnetosphere
+MESSENGER Model 2010
+
+Dipole field strength: 0.002 Gauss-Rh3
+Dipole tilt to rotational axis: 0.0 degrees
+Dipole Offset: 0.17 Rh
+Surface (1 Rh) field strength: 0.0025 - 0.007 Gauss
+
+Rh denotes Mercurian model radius, here defined to be 2,440 km
+Mercury Atmosphere (Exosphere)
+
+Surface pressure: <~5 x 10-15 bar (0.005 picobar)
+Average temperature: 440 K (167 C) (590-725 K, sunward side)
+Total mass of atmosphere: <~10000 kg
+
+Atmospheric composition (Column abundances in 106 per cm2):
+Sodium 12,000-200,000; Magnesium 100,000; Oxygen <40,000; Hydrogen 5000, Potassium 800-1300,
+Calcium 300-1000; Iron <300; Aluminum 15; and
+possible trace amounts of Argon (Ar), Carbon Dioxide (CO2),
+Water (H2O), Nitrogen (N2), Xenon (Xe), Krypton (Kr),
+Neon (Ne), Helium (He)
+
+(The atmosphere of Mercury is a surface bounded exosphere, essentially a vacuum.
+Values for some species can vary with local time or location, these are given as ranges.)
